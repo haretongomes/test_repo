@@ -1,0 +1,25 @@
+{
+    "os": "Windows-10-10.0.19044-SP0",
+    "python": "3.8.13",
+    "heartbeatAt": "2022-05-03T20:01:04.820216",
+    "startedAt": "2022-05-03T20:01:00.695195",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "source.api.main:app",
+        "--reload"
+    ],
+    "state": "running",
+    "program": "C:\\Users\\edile\\anaconda3\\envs\\colab2deploy\\Scripts\\uvicorn-script.py",
+    "codePath": "..\\..\\..\\..\\anaconda3\\envs\\colab2deploy\\Scripts\\uvicorn-script.py",
+    "git": {
+        "remote": "https://github.com/haretongomes/test_repo.git",
+        "commit": "8eab136895eb31b418e0c5c813c3a32866efed20"
+    },
+    "email": "hareton.gomes.597@ufrn.edu.br",
+    "root": "C:/Users/edile/OneDrive/Documentos/GitHub/test_repo",
+    "host": "DESKTOP-NNV6404",
+    "username": "edile",
+    "executable": "C:\\Users\\edile\\anaconda3\\envs\\colab2deploy\\python.exe"
+}
